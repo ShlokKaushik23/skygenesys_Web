@@ -389,8 +389,8 @@ a {
 }
 
 .section-box.white {
-     background: #f8f8ff;
-    padding: 142px 0px 112px 0px;
+     background-color: #f8f8ff;
+     padding: 142px 0px 112px 0px;
 }
 
 .text-shadow {
