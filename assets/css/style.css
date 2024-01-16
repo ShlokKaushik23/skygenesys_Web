@@ -388,8 +388,9 @@ a {
     overflow: hidden;
 }
 
-.section-bo.white {
-    background: #D1D3D4;
+.section-box.white {
+     background: #f8f8ff;
+    padding: 142px 0px 112px 0px;
 }
 
 .text-shadow {
