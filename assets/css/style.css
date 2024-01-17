@@ -388,8 +388,11 @@ a {
     overflow: hidden;
 }
 
-.section-bo.white {
-    background: #D1D3D4;
+.section-box.white {
+    background: #f8f8ff;
+    padding: 142px 0px 112px 0px;
+
+    
 }
 
 .text-shadow {
@@ -3589,7 +3592,7 @@ label {
     left: 0px;
     z-index: 123;
     background: transparent;
-    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    border-bottom: 0.5px solid rgba(255, 255, 255, 1);
 }
 
 .header.header-style-4 {
