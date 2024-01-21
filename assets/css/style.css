@@ -386,6 +386,7 @@ a {
     display: block;
     width: 100%;
     overflow: hidden;
+    background-color: #f8f8ff;
 }
 
 .section-box.white {
@@ -3681,9 +3682,9 @@ label {
     position: relative;
 }
 
+
 .header .main-menu li a:hover {
     font-weight: 500;
-    text-decoration: underline;
     text-decoration-color: #191919;
 }
 
@@ -4647,7 +4648,7 @@ border-bottom: 0.5px solid rgba(255, 255, 255, 0.15);
 }
 
 .footer.footer-style-4 .menu-footer li a:hover {
-    color: #13a1cf;
+    color: #fff;
 }
 
 .footer.footer-style-5 .footer-bottom {
